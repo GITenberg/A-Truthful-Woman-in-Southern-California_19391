@@ -1,0 +1,33 @@
+_repo: A-Truthful-Woman-in-Southern-California_19391
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sanborn, Kate
+    alias: Sanborn, Katherine Abbott
+    birthdate: 1839
+    deathdate: 1917
+    gutenberg_agent_id: '4181'
+    url: http://www.gutenberg.org/2009/agents/4181
+description: New England humorist Kate Sanborn (1839-1917) wrote widely and taught
+  at Smith College. A truthful woman in southern California (1893) offers sage and
+  amusing advice to tourists planning a rail trip to Southern California, ranging
+  from recommendations for one's wardrobe to suggestions for the itinerary. She shares
+  her personal experiences in visiting Coronado Beach, San Diego, Los Angeles, Pasadena,
+  Mount Wilson, San Bernardion, Riverside, and Santa Barbara.
+gutenberg_issued: '2006-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19391'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'California, Southern -- Description and travel'
+- !lcc 'F850.5'
+- !lcsh 'Women -- California'
+title: A Truthful Woman in Southern California
+url: http://www.gutenberg.org/ebooks/19391
